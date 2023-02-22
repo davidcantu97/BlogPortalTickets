@@ -1,0 +1,68 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+body {
+  margin:0;
+  padding:0;
+}
+
+.nav-home {
+    background-color: #0068a4;
+    color: white;
+    height: 6vh;
+}
+
+.cntner-grande {
+    height: 30vh;
+    border-radius: 10px;
+    color:white;
+    
+}
+
+.cntner-chico {
+    height: 45vh;
+    
+    color:white;
+}
+
+
+.ctner-main{
+    margin-top:80px;
+}
+
+.primero {
+    background-color: #222d43;
+
+}
+
+.segundo {
+    background-color: #140f07;
+    border-radius:10px 0px 0px 10px;
+}
+.tercero {
+    background-color: #0975a8;
+    border-radius: 0px 10px 10px 0px;
+}
+.cuarto {
+    background-color: #07c1ff;
+    border-radius: 10px 0px 0px 10px;
+}
+.quinto {
+    background-color: #d8e2ed;
+    border-radius: 0px 10px 10px 0px;
+}
+.sexto {
+    background-color: #00c1bd;
+}
+
+.Subtitulo{
+    margin-top:110px;
+    font-size:30px;
+}
